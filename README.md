@@ -7,7 +7,7 @@
 
 <div style="display: flex; flex-wrap: wrap;">
     <div>
-        <p>I’m a passionate Full-Stack Developer with experience in leading teams and delivering impactful solutions. Currently at Sparkle Infotech, I’ve honed my skills in e-commerce development and operations improvement. My journey includes expertise in React, Next.js, and various tech stacks, with a focus on building efficient, scalable solutions. 🚀
+        <p>I’m a passionate Full-Stack Developer with experience in leading teams and delivering impactful solutions. I’ve honed my skills in e-commerce development and operations improvement. My journey includes expertise in Angular, Node.js, Graphql and various tech stacks, with a focus on building efficient, scalable solutions. 🚀
 
 Feel free to explore my repositories and connect with me!</p>
     </div>
